@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vibly.app
   # baseUrl: /your-repo-name
-  logoUrl: https://github.com/Rileyjrjohns/vibly-status/blob/a84ed4e6486f8f205cdb67309000932a1ea9c597/assets/vibly_logo.svg
+  logoUrl: https://raw.githubusercontent.com/Rileyjrjohns/vibly-status/2f7345a3cb2bbc1f967310601cf7f0935499f24e/assets/vibly_logo.svg
   name: Vibly Status
   introTitle: "Suivi en temps réel de la disponibilité des services Vibly"
   introMessage: Cette page de suivi de status indique l\'état de nos services en temps réel.
