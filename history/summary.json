@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/rest.vibly.app",
     "slug": "serveur",
     "status": "up",
-    "uptime": "1.28%",
-    "uptimeDay": "1.28%",
-    "uptimeWeek": "1.28%",
-    "uptimeMonth": "1.28%",
-    "uptimeYear": "1.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 501,
     "timeDay": 501,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
-    "dailyMinutesDown": {
-      "2022-06-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Site Internet",
