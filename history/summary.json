@@ -1,22 +1,40 @@
 [
   {
-    "name": "API",
+    "name": "Serveur",
     "url": "https://rest.vibly.fr",
     "icon": "https://favicons.githubusercontent.com/rest.vibly.fr",
-    "slug": "api",
+    "slug": "serveur",
     "status": "down",
-    "uptime": "14.31%",
-    "uptimeDay": "14.31%",
-    "uptimeWeek": "14.31%",
-    "uptimeMonth": "14.31%",
-    "uptimeYear": "14.31%",
+    "uptime": "18.10%",
+    "uptimeDay": "18.10%",
+    "uptimeWeek": "18.10%",
+    "uptimeMonth": "18.10%",
+    "uptimeYear": "18.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 10
+      "2022-06-13": 0
     }
+  },
+  {
+    "name": "Site Internet",
+    "url": "https://vibly.fr",
+    "icon": "https://favicons.githubusercontent.com/vibly.fr",
+    "slug": "site-internet",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
+    "dailyMinutesDown": {}
   }
 ]
