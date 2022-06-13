@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Vibly Status
   introTitle: "Suivi en temps réel de la disponibilité des services Vibly"
-  introMessage: "Cette page de suivi de status indique l'état de nos services en temps réel".
+  introMessage: Cette page de suivi de status indique l\'état de nos services en temps réel.
   navbar:
     - title: Status
       href: /
