@@ -1,22 +1,22 @@
 [
   {
     "name": "API",
-    "url": "https://rest.vibly.fr/",
+    "url": "https://rest.vibly.fr",
     "icon": "https://favicons.githubusercontent.com/rest.vibly.fr",
     "slug": "api",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "14.31%",
+    "uptimeDay": "14.31%",
+    "uptimeWeek": "14.31%",
+    "uptimeMonth": "14.31%",
+    "uptimeYear": "14.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 8
+      "2022-06-13": 10
     }
   }
 ]
