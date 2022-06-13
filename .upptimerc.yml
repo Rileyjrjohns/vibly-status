@@ -19,61 +19,61 @@ status-website:
     - title: Status
       href: /
 i18n:
-  activeIncidents: Active Incidents
+  activeIncidents: Incidents actifs
   allSystemsOperational: Tous les systèmes sont opérationnels
-  incidentReport: "Incident #$NUMBER report →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
-  incidentFixed: Fixed
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
-  incidentViewOnGitHub: View and Subscribe on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  incidentReport: "Rapport de l'incident #$NUMBER →"
+  activeIncidentSummary: Ouvert le $DATE avec $POSTS publications
+  incidentTitle: Details de l'incident $NUMBER 
+  incidentDetails: Détails de l'incident
+  incidentFixed: Corrigé
+  incidentOngoing: En cours
+  incidentOpenedAt: Ouvert le
+  incidentClosedAt: Fermé le
+  incidentViewOnGitHub: Voir et s'abonner sur GitHub
+  incidentCommentSummary: Posté le $DATE par $AUTHOR
+  incidentBack: ← Retour à tous les incidents
+  pastIncidents: Incidents passés
+  pastIncidentsResolved: Résolu en $MINUTES minutes avec $POSTS publications
   liveStatus: Status en temps réel
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
-  up: Up
-  down: Down
-  degraded: Degraded
+  overallUptime: "Temps de fonctionnement global : $UPTIME"
+  overallUptimeTitle: Temps de fonctionnement global
+  averageResponseTime: "Temps de réponse moyen : $TIMEms"
+  averageResponseTimeTitle: Réponse moyenne
+  sevelDayResponseTime: Délai de réponse les 7 derniers jours
+  responseTimeMs: Temps de réponse (ms)
+  up: En ligne
+  down: Hors ligne
+  degraded: Dégradé
   ms: ms
-  loading: Loading
+  loading: Chargement
   navGitHub: GitHub
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Rate limit exceeded
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
-  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
-  pastScheduledMaintenance: Past Scheduled Maintenance
-  scheduledMaintenance: Scheduled Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
-  duration: Duration
+  rateLimitExceededTitle: Limite de débit dépassée
+  rateLimitExceededIntro: Vous avez dépassé le nombre de requêtes que vous pouvez effectuer en une heure. Vous devrez donc attendre avant d'accéder à nouveau à ce site Web. Vous pouvez également ajouter un jeton d'accès personnel GitHub pour continuer à utiliser ce site Web.
+  rateLimitExceededWhatDoesErrorMean: Que signifie cette erreur ?
+  rateLimitExceededErrorMeaning: Ce site web utilise l'API GitHub pour accéder à des données en temps réel sur l'état de nos sites web. Par défaut, GitHub autorise à chaque adresse IP 60 requêtes par heure, que vous avez consommées.
+  rateLimitExceededErrorHowCanFix: Comment puis-je le réparer ?
+  rateLimitExceededErrorFix: Vous pouvez attendre une heure de plus et la limite de votre adresse IP sera rétablie. Vous pouvez également ajouter votre jeton d'accès personnel GitHub, qui vous donne droit à 5 000 demandes supplémentaires par heure.
+  rateLimitExceededGeneratePAT: Apprenez comment générer un jeton d'accès personnel
+  rateLimitExceededHasSet: Vous avez défini un jeton d'accès personnel.
+  rateLimitExceededRemoveToken: Retirer le jeton
+  rateLimitExceededGitHubPAT: Token d'accès personnel GitHub
+  rateLimitExceededCopyPastePAT: Copiez et collez votre jeton
+  rateLimitExceededSaveToken: Sauvegarder le jeton
+  errorTitle: Une erreur s'est produite
+  errorIntro: Une erreur s'est produite en essayant d'obtenir les derniers détails du statut.
+  errorText: Vous pourrez réessayer dans quelques instants.
+  errorHome: Aller à la page d'accueil
+  pastScheduledMaintenance: Entretien programmé passé
+  scheduledMaintenance: Maintenance programmée
+  scheduledMaintenanceSummaryStarted: Démarré le $DATE pour $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Commence le $DATE pour $DURATION minutes
+  startedAt: Commencé le
+  startsAt: Commence le
+  duration: Durée
   durationMin: $DURATION minutes
-  incidentCompleted: Completed
-  incidentScheduled: Scheduled
+  incidentCompleted: Terminé
+  incidentScheduled: Programmé
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
