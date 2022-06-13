@@ -18,6 +18,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vibly.app
+  favicon: https://vibly.fr/favicons/apple-touch-icon.png
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Rileyjrjohns/vibly-status/2f7345a3cb2bbc1f967310601cf7f0935499f24e/assets/vibly_logo.svg
   name: Vibly Status
