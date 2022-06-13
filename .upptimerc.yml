@@ -6,6 +6,14 @@ sites:
     url: https://rest.vibly.app
   - name: Site Internet
     url: https://vibly.fr
+  - name: CDN utilisateurs
+    url: https://user-cdn.vibly.app/health.html
+  - name: CDN évènements
+    url: https://events-cdn.vibly.app/health.html
+  - name: CDN associations
+    url: https://unions-cdn.vibly.app/health.html
+  - name: CDN documents
+    url: https://legal-cdn.vibly.app/health.html
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
