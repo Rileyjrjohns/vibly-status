@@ -4,6 +4,8 @@ repo: vibly-status # The name of this repository
 sites:
   - name: Serveur
     url: https://rest.vibly.app
+  - name: Scheduler
+    url: http://scheduler-env.eba-j8qik3nf.eu-west-3.elasticbeanstalk.com
   - name: Site Internet
     url: https://vibly.fr
   - name: CDN utilisateurs
