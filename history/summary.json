@@ -4,19 +4,19 @@
     "url": "https://rest.vibly.app",
     "icon": "https://favicons.githubusercontent.com/rest.vibly.app",
     "slug": "serveur",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 605,
     "timeDay": 591,
-    "timeWeek": 610,
-    "timeMonth": 581,
+    "timeWeek": 601,
+    "timeMonth": 575,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2022-08-16": 37
+      "2022-09-16": 0
     }
   },
   {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 324,
-    "timeWeek": 287,
+    "timeWeek": 281,
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {}
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/vibly.fr",
     "slug": "site-internet",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 338,
-    "timeWeek": 252,
+    "timeWeek": 247,
     "timeMonth": 262,
     "timeYear": 199,
-    "dailyMinutesDown": {
-      "2022-06-17": 43
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN utilisateurs",
@@ -70,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 662,
     "timeDay": 722,
-    "timeWeek": 681,
+    "timeWeek": 648,
     "timeMonth": 651,
     "timeYear": 662,
     "dailyMinutesDown": {}
@@ -88,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 653,
     "timeDay": 721,
-    "timeWeek": 655,
+    "timeWeek": 652,
     "timeMonth": 633,
     "timeYear": 653,
     "dailyMinutesDown": {}
@@ -106,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 659,
     "timeDay": 723,
-    "timeWeek": 685,
+    "timeWeek": 674,
     "timeMonth": 646,
     "timeYear": 659,
     "dailyMinutesDown": {}
@@ -124,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 167,
     "timeDay": 176,
-    "timeWeek": 248,
+    "timeWeek": 243,
     "timeMonth": 174,
     "timeYear": 167,
     "dailyMinutesDown": {}
