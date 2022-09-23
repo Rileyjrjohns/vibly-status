@@ -40,9 +40,9 @@
     "url": "https://vibly.fr",
     "icon": "https://favicons.githubusercontent.com/vibly.fr",
     "slug": "site-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 272,
     "timeMonth": 260,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-23": 0
+    }
   },
   {
     "name": "CDN utilisateurs",
