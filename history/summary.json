@@ -4,18 +4,20 @@
     "url": "https://rest.vibly.app",
     "icon": "https://icons.duckduckgo.com/ip3/rest.vibly.app.ico",
     "slug": "serveur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 598,
     "timeDay": 582,
     "timeWeek": 574,
     "timeMonth": 556,
     "timeYear": 598,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 2
+    }
   },
   {
     "name": "Scheduler",
@@ -60,10 +62,10 @@
     "url": "https://user-cdn.vibly.app/health.html",
     "icon": "https://icons.duckduckgo.com/ip3/user-cdn.vibly.app.ico",
     "slug": "cdn-utilisateurs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
@@ -71,17 +73,19 @@
     "timeWeek": 608,
     "timeMonth": 635,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 2
+    }
   },
   {
     "name": "CDN évènements",
     "url": "https://events-cdn.vibly.app/health.html",
     "icon": "https://icons.duckduckgo.com/ip3/events-cdn.vibly.app.ico",
     "slug": "cdn-evenements",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 636,
@@ -89,17 +93,19 @@
     "timeWeek": 600,
     "timeMonth": 611,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 1
+    }
   },
   {
     "name": "CDN associations",
     "url": "https://unions-cdn.vibly.app/health.html",
     "icon": "https://icons.duckduckgo.com/ip3/unions-cdn.vibly.app.ico",
     "slug": "cdn-associations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
@@ -107,16 +113,18 @@
     "timeWeek": 632,
     "timeMonth": 645,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 1
+    }
   },
   {
     "name": "CDN documents",
     "url": "https://legal-cdn.vibly.app/health.html",
     "icon": "https://icons.duckduckgo.com/ip3/legal-cdn.vibly.app.ico",
     "slug": "cdn-documents",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +133,8 @@
     "timeWeek": 253,
     "timeMonth": 162,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 0
+    }
   }
 ]
