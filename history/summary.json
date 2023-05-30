@@ -42,18 +42,19 @@
     "url": "https://vibly.fr",
     "icon": "https://icons.duckduckgo.com/ip3/vibly.fr.ico",
     "slug": "site-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 193,
     "timeDay": 104,
-    "timeWeek": 169,
+    "timeWeek": 183,
     "timeMonth": 173,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2023-05-30": 0,
       "2022-09-23": 144
     }
   },
