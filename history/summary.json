@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2023-11-10": 854,
+      "2023-11-10": 865,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -95,7 +95,7 @@
     "url": "http://scheduler-env.eba-j8qik3nf.eu-west-3.elasticbeanstalk.com",
     "icon": "https://icons.duckduckgo.com/ip3/scheduler-env.eba-j8qik3nf.eu-west-3.elasticbeanstalk.com.ico",
     "slug": "scheduler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "91.09%",
     "uptimeWeek": "98.73%",
