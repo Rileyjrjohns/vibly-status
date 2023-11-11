@@ -1,7 +1,7 @@
 url: http://scheduler-env.eba-j8qik3nf.eu-west-3.elasticbeanstalk.com
 status: down
-code: 502
-responseTime: 26499
-lastUpdated: 2023-11-11T17:51:26.941Z
+code: 503
+responseTime: 280
+lastUpdated: 2023-11-11T23:01:35.933Z
 startTime: 2022-09-09T17:52:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
